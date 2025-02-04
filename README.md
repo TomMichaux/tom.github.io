@@ -54,7 +54,7 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
  	<tr>
 		<td align="center">
 			<a href="https://github.com/TomMichaux">
-				<img src="https://pbs.twimg.com/profile_images/1751593213486329856/bD1cQmt9&v=4" width="100px;" alt=""/>
+				<img src="https://avatars.githubusercontent.com/u/180388141?v=4&size=64" width="100px;" alt=""/>
 			</a>
 		</td>
 	</tr>
