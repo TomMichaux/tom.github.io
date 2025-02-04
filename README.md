@@ -57,10 +57,10 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 
 **Please contact me using one of the following:**
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ptprashant09)
-[![](https://img.shields.io/badge/twitch-9146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.linkedin.com/in/ptprashanttripathi/)
-[![](https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://t.me/ptprashanttripathi/)
-[![](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.facebook.com/ptprashanttripathi)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Lepsko_streamer)
+[![](https://img.shields.io/badge/twitch-9146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lepskosysuna)
+[![](https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lepsko_Bread)
+[![](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Cx3NuVAHNQ)
 
 <hr>
 <p align="center">  
