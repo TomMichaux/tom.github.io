@@ -54,14 +54,14 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 <table>
 	<tr>
 		<th align="center">
-				<a href="https://github.com/TomMichaux/tom.github.io">
+				<a href="https://github.com/TomMichaux">
 					<sub><b>Tom Michaux</b></sub>
 				</a>
 		</th>
   	</tr>
  	<tr>
 		<td align="center">
-			<a href="https://github.com/TomMichaux/tom.github.io">
+			<a href="https://github.com/TomMichaux">
 				<img src="https://avatars.githubusercontent.com/u/180388141?v=4&size=64" width="100px;" alt=""/>
 			</a>
 		</td>
