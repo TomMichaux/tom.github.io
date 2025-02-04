@@ -5,8 +5,6 @@
 	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/graphs/traffic"><img alt="Total-Downlode" src="https://img.shields.io/github/downloads/PtPrashantTripathi/ptprashanttripathi.github.io/total.svg?style=flat-square"/></a>
 </p>
 <p align="center">
-	<a href="https://github.com/TomMichaux/TomMichaux.github.io/issues/new/choose">Report Bug</a>·
-	<a href="https://github.com/TomMichaux/TomMichaux.github.io/issues/new/choose">Request Feature</a>
 </p>
 <p align="center">
 	<i>Loved the tool? Please consider <a href="https://paypal.me/ptprashanttripathi/100">donating</a> 💸 to help it improve!</i><br>
