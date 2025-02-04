@@ -1,5 +1,5 @@
 ---
-name: Tom Michaux
+name: Tom/Lepsko Michaux
 about: Here I show all the Projects I am proud of in Game Development!
 title: ''
 labels: ''
