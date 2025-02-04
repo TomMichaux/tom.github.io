@@ -2,8 +2,6 @@
 <p align="center">
 	<a href="https://github.com/TomMichaux"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-%20Tom%20Michaux-Success.svg?style=flat-square"/></a>
 	<a href="https://ptprashanttripathi.github.io"><img alt="Website Status" src="https://img.shields.io/website/http/ptprashanttripathi.github.io.svg?down_message=Down&up_message=Online&style=flat-square"/></a>
-	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/stargazers"><img alt="stars-shield" src="https://img.shields.io/github/stars/ptprashanttripathi/linkpe.svg?style=flat-square"/></a>
-	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/network/members"><img alt="forks-shield" src="https://img.shields.io/github/forks/ptprashanttripathi/linkpe.svg?style=flat-square"/></a>
 	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/graphs/traffic"><img alt="Total-Downlode" src="https://img.shields.io/github/downloads/PtPrashantTripathi/ptprashanttripathi.github.io/total.svg?style=flat-square"/></a>
 </p>
 <p align="center">
