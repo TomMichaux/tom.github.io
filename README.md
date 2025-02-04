@@ -88,7 +88,7 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 **Please contact me using one of the following:**
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Lepsko_streamer)
-[![](https://as2.ftcdn.net/jpg/05/10/00/13/1000_F_510001300_9W23WkZBRArM8pMwVK3GtF9MugSNJwHR.jpg)]
+[![](https://cdn-icons-png.flaticon.com/512/3621/3621451.png)]
 (https://www.linkedin.com/in/ptprashanttripathi/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ptprashanttripathi/)
 [![](https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ptprashanttripathi/)
