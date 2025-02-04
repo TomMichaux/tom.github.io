@@ -470,6 +470,8 @@ p {
 }
 .bg-struct.bg-img {
   background: url(/img/1080x360 (1).jpg);
+  background-position-x: 100%;
+  background-position-y: 100%;
   background-position: center;
   background-size: cover;
 }
