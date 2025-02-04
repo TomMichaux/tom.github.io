@@ -49,35 +49,20 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 - http://getbootstrap.com/
 - https://getmdl.io/components/index.html
 
-## 🙏 Support
-
-<p align="left">
-<a href="https://www.paypal.me/ptprashanttripathi"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile"/>
-</a>
-<a href="upi://pay/?pa=pt1998%40ybl&pn=Pt.+Prashant+Tripathi">
-<img src="https://raw.githubusercontent.com/PtPrashantTripathi/ptprashanttripathi.github.io/main/img/phonepe-logo-big.png" alt="linkpe"/>
-</a>
-</p>
-<p align="left">
-  <a href='https://ko-fi.com/ptprashanttripathi' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for ptprashanttripathi' />
-  </a>
-  <a href="https://www.buymeacoffee.com/ptprashant09" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
-</p>
-
 ## Contributors ✨
 
 <table>
 	<tr>
 		<th align="center">
-				<a href="https://github.com/ptprashanttripathi">
-					<sub><b>Pt. Prashant Tripathi</b></sub>
+				<a href="https://github.com/TomMichaux/tom.github.io">
+					<sub><b>Tom Michaux</b></sub>
 				</a>
 		</th>
   	</tr>
  	<tr>
 		<td align="center">
-			<a href="https://github.com/ptprashanttripathi">
-				<img src="https://avatars2.githubusercontent.com/u/26687933?s=200&v=4" width="100px;" alt=""/>
+			<a href="https://github.com/TomMichaux/tom.github.io">
+				<img src="https://avatars.githubusercontent.com/u/180388141?v=4&size=64" width="100px;" alt=""/>
 			</a>
 		</td>
 	</tr>
