@@ -41,18 +41,13 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 - http://getbootstrap.com/
 - https://getmdl.io/components/index.html
 
-## 🙏 Support
-
-<p 
-</p>
-
 ## Contributors ✨
 
 <table>
 	<tr>
 		<th align="center">
-				<a href="https://github.com/ptprashanttripathi">
-					<sub><b>Pt. Prashant Tripathi</b></sub>
+				<a href="https://github.com/TomMichaux">
+					<sub><b> Tom Michaux</b></sub>
 				</a>
 		</th>
   	</tr>
