@@ -507,7 +507,7 @@ p {
   color: #55acee;
 }
 .about-sec .social-icons li a.youtube-link:hover i {
-  color: #CD201F;
+  color: rgb(205, 32, 31);
 }
 .about-sec .profile-wrap li {
   margin-bottom: 8px;
