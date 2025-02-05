@@ -500,17 +500,14 @@ p {
   -webkit-transition: 0.3s ease;
   transition: 0.3s ease;
 }
-.about-sec .social-icons li a.facebook-link:hover i {
-  color: #3b5998;
+.about-sec .social-icons li a.twitch-link:hover i {
+  color: #6441a5;
 }
 .about-sec .social-icons li a.twitter-link:hover i {
   color: #55acee;
 }
-.about-sec .social-icons li a.linkedin-link:hover i {
-  color: #007bb6;
-}
-.about-sec .social-icons li a.instagram-link:hover i {
-  color: #3f729b;
+.about-sec .social-icons li a.youtube-link:hover i {
+  color: #CD201F;
 }
 .about-sec .profile-wrap li {
   margin-bottom: 8px;
